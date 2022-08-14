@@ -1,0 +1,31 @@
+.form-div {
+    height: 300px;
+    width: 300px;
+    padding: 20px;
+    margin: auto;
+    border: 2px solid rgba(50, 50, 50, 0.3);
+    background-color: rgb(252, 242, 216);
+    border-radius: 25px;
+}
+
+.input {
+    width: 300px;
+}
+
+#rememberme {
+    text-align: left;
+    width: 150px;
+}
+
+#forgot {
+    text-align: right;
+    width: 150px;
+}
+
+#login-button {
+    border-radius: 25px;
+}
+
+.login-div {
+    margin: 0 auto;
+}
